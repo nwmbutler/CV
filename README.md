@@ -1,8 +1,7 @@
 ## Nick Butler
 
-Following a succesful career in Technical Theatre, I have taken the leap and joined Makers Academy to take my logical 
-thinking, problem solving, technically orientated skills and redeploy them in pursuit of a new exciting path as a 
-Junior Software Developer.
+Following a succesful career in Technical Theatre, I have taken the leap into software development to take my logical 
+thinking, problem solving, technically orientated skills and redeploy them in pursuit of a new exciting career.
 
 I am excited about a career change into a perenially growing, dynamic field.
 
@@ -27,6 +26,11 @@ requirements.
 Another hugely important part of my professional life to this point has been Health and Safety. The attention to detail
 required when working with a 20ft flame curtain, or a 10 tonne articulated wall and making sure everyone is not only safe
 but confident with how to interact with these potentially lethal effects, is not something to be ignored. 
+
+# Projects
+Acebook-Brainaics(sic)! This was a ten day project to build a "Facebook clone" 
+
+<iframe src="https://giphy.com/embed/Phf4AdXoIwKeSPiswl" width="480" height="290" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Phf4AdXoIwKeSPiswl">via GIPHY</a></p>
 
 
 ## Education
