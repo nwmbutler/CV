@@ -30,8 +30,6 @@ but confident with how to interact with these potentially lethal effects, is not
 # Projects
 Acebook-Brainaics(sic)! This was a ten day project to build a "Facebook clone" 
 
-<iframe src="https://giphy.com/embed/Phf4AdXoIwKeSPiswl" width="480" height="290" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Phf4AdXoIwKeSPiswl">via GIPHY</a></p>
-
 
 ## Education
 
