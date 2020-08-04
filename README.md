@@ -1,9 +1,9 @@
 ## Nick Butler
 
-Following a succesful career in Technical Theatre, I have taken the leap into software development to take my logical 
+Following a successful career in Technical Theatre, I have taken the leap into software development to take my logical 
 thinking, problem solving, technically orientated skills and redeploy them in pursuit of a new exciting career.
 
-I am excited about a career change into a perenially growing, dynamic field.
+I am excited about a career change into a perennially growing, dynamic field.
 
 
 ## Team player 
@@ -28,8 +28,13 @@ required when working with a 20ft flame curtain, or a 10 tonne articulated wall 
 but confident with how to interact with these potentially lethal effects, is not something to be ignored. 
 
 # Projects
-Acebook-Brainaics(sic)! This was a ten day project to build a "Facebook clone" 
 
+Small Steps, a carbon footprint calculator. This was my ten day final group project at Makers academy.
+Deployed and live at;
+[Small Steps](https://small-steps2020.herokuapp.com/)
+Acebook, a Facebook clone which was built as my penultimate group project at Makers academy. Deployed and
+live at;
+[Acebook](https://acebook-brainaics.herokuapp.com/)
 
 ## Education
 
