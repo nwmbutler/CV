@@ -30,10 +30,10 @@ but confident with how to interact with these potentially lethal effects, is not
 # Projects
 
 Small Steps, a carbon footprint calculator. This was my ten day final group project at Makers academy.
-Deployed and live at;
-[Small Steps](https://small-steps2020.herokuapp.com/)
+Deployed and live at;\n
+[Small Steps](https://small-steps2020.herokuapp.com/)\n
 Acebook, a Facebook clone which was built as my penultimate group project at Makers academy. Deployed and
-live at;
+live at;\n
 [Acebook](https://acebook-brainaics.herokuapp.com/)
 
 ## Education
