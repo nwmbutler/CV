@@ -30,12 +30,14 @@ but confident with how to interact with these potentially lethal effects, is not
 # Projects
 
 ![alt-text](https://media.giphy.com/media/Jrep9ZLnjDcVsHlGEY/giphy.gif)
+
 Small Steps, a carbon footprint calculator. This was my ten day final group project at Makers academy.
 Deployed and live at;
 
 [Small Steps](https://small-steps2020.herokuapp.com/)
 
 ![alt-text](https://media.giphy.com/media/Phf4AdXoIwKeSPiswl/giphy.gif)
+
 Acebook, a Facebook clone which was built as my penultimate group project at Makers academy. Deployed and
 live at;
 
