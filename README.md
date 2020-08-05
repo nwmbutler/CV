@@ -5,8 +5,8 @@ thinking, problem solving, technically orientated skills and redeploy them in pu
 
 I am excited about a career change into a perennially growing, dynamic field.
 
-
-## Team player 
+## Skills
+#### Team player 
 
 My greatest achievement in my previous career was staffing from scratch the newest London Theatre complex, 'The Other Palace'.
 I joined when the site was a hole in the ground and was involved in its inception and for 5 hugely enjoyable years. 
