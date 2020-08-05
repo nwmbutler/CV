@@ -1,4 +1,10 @@
-## Nick Butler
+<h1 align="center"> Nick Butler </h1>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/nick-butler-4a7986a3/"><img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+
+</div>
 
 Following a successful career in Technical Theatre, I have taken the leap into software development to take my logical 
 thinking, problem solving, technically orientated skills and redeploy them in pursuit of a new exciting career.
