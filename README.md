@@ -57,13 +57,9 @@ live at;
 - Film, Radio and Television 
 - BA Hons 2:1
 
-#### Any other qualifications
+#### Other qualifications
 
-These are in no way directly software development related, but I've gathered the following qualifications
 IOSH - Managing safely
-PASMA - Towers and Ladders
-Working at Height
-partially completed, Electrotechnical Craft (2365)
 
 ## Experience
 
