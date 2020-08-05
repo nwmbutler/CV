@@ -6,32 +6,20 @@
 
 </div>
 
-Following a successful career in Technical Theatre, I have taken the leap into software development to take my logical 
-thinking, problem solving, technically orientated skills and redeploy them in pursuit of a new exciting career.
-
-I am excited about a career change into a perennially growing, dynamic field.
+Following a successful career in Technical Theatre, I have taken the leap into software development to take my logical thinking, problem solving, technically orientated skills and redeploy them in pursuit of a new exciting career.
 
 ## Skills
 #### Team player 
 
-My greatest achievement in my previous career was staffing from scratch the newest London Theatre complex, 'The Other Palace'.
-I joined when the site was a hole in the ground and was involved in its inception and for 5 hugely enjoyable years. 
-The best part of this was creating a technical team, with Lighting, Sound and Stage technicians and being instrumental in 
-forming the way that team worked and thrived. 
+My greatest achievement in my previous career was building the Technical team from scratch for the newest London Theatre complex, 'The Other Palace'. I was involved in its inception and for 5 hugely enjoyable years. The best part of this was creating a Technical team, with Lighting, Sound and Stage technicians and being instrumental in forming the way that team worked and thrived.
 
 #### Born facilitator
 
-As a Technical Manager my raison d'etre was realising the ideas and inspirations of talented designers. I worked with 
-Directors, Set and Costume designers, Lighting and Sound Designers, to bring their creative imaginings to life in whatever
-venue I was responsible for. Often pushing at the limits of what ancient buildings could take and audiences could comprehend.
-I am excited to bring this strength to bear in realising the wants and needs of clients with bold, exciting software 
-requirements.
+As a Technical Manager my raison d'etre was realising the ideas and inspirations of talented designers. I worked with Directors, Set and Costume designers, Lighting and Sound Designers, to bring their creative imaginings to life in whatever venue I was responsible for. I am excited to bring this strength to bear in realising the wants and needs of clients with bold, exciting software requirements.
 
 #### Detail orientated
 
-Another hugely important part of my professional life to this point has been Health and Safety. The attention to detail
-required when working with a 20ft flame curtain, or a 10 tonne articulated wall and making sure everyone is not only safe
-but confident with how to interact with these potentially lethal effects, is not something to be ignored. 
+Another hugely important part of my professional life to this point has been Health and Safety. The attention to detail required when working with a 20ft flame curtain, or a 10 tonne articulated wall and making sure everyone is not only safe but confident interacting with these potentially lethal effects, fosters an eye for the tiniest details. 
 
 # Projects
 
