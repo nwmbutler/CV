@@ -57,19 +57,19 @@ IOSH - Managing safely
 
 ## Experience
 
-**New Wimbledon Theatre** (March 2019 - March 2020)    
-*Technical Manager*  
-- 
+#### New Wimbledon Theatre (March 2019 - March 2020)    
+*Technical Manager
 
-**The London Palladium** (November 2017 - March 2019)   
-*Deputy Technical Manager*  
-- 
+
+#### The London Palladium (November 2017 - March 2019)   
+*Deputy Technical Manager
+
 
 ## Hobbies
 
-I love making music, I play bass guitar, guitar and pretty much anything else I can get my hands on.
-I can lose hours editing a video in Final cut pro, or fixing a vocal track in any DAW you fancy. 
-Currently practicing effectively getting beaten up in Muay Thai.
-Force myself to run, then really enjoy it.
-Cinephile.
+* I love making music, I play bass guitar, guitar and pretty much anything else I can get my hands on.
+* I can lose hours editing a video in Final cut pro, or fixing a vocal track in any DAW you fancy. 
+* Currently practicing effectively getting beaten up in Muay Thai.
+* Force myself to run, then really enjoy it.
+* Cinephile.
 
