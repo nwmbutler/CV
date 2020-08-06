@@ -29,17 +29,13 @@ Another hugely important part of my professional life to this point has been Hea
 
 Small Steps, a carbon footprint calculator. This was my ten day final group project at Makers academy. We built this with a React
 Front-End and a Node/Express Backend. Testing was with Jest.
-Deployed and live at;
-
-[Small Steps](https://small-steps2020.herokuapp.com/)
+Check it out here - [Small Steps](https://small-steps2020.herokuapp.com/)
 
 ![alt-text](https://media.giphy.com/media/Phf4AdXoIwKeSPiswl/giphy.gif)
 
 Acebook, a Facebook clone which was built as my penultimate group project at Makers academy. We built this using Ruby on Rails.
 Tested with Rspec and Capybara.
-Deployed and live at;
-
-[Acebook](https://acebook-brainaics.herokuapp.com/)
+Check it out here - [Acebook](https://acebook-brainaics.herokuapp.com/)
 
 ## Education
 
