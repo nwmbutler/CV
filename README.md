@@ -20,8 +20,9 @@ Just two examples of the projects I worked on during the course are below;
 
 ![alt-text](https://media.giphy.com/media/Jrep9ZLnjDcVsHlGEY/giphy.gif)
 
-Small Steps, a carbon footprint calculator. This was my ten day final group project at Makers academy. We built this with a React
-Front-End and a Node/Express Backend. Testing was with Jest.
+Small Steps, a carbon footprint calculator. This was my ten day final group project at Makers academy.
+- We practised Agile processes, with daily stand-ups and retros, to create an optimal learning space in which to work effectively as a team.
+It was built with a React Front-End and a Node/Express Backend. Testing was with Jest.
 Check it out here - [Small Steps](https://small-steps2020.herokuapp.com/)
 
 ![alt-text](https://media.giphy.com/media/Phf4AdXoIwKeSPiswl/giphy.gif)
