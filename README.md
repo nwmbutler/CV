@@ -33,6 +33,8 @@ Acebook, a Facebook clone which was built using Ruby on Rails, PostgreSQL, as my
 
 Check it out here - [Acebook](https://acebook-brainaics.herokuapp.com/)
 
+Both of these projects had a focus on TDD and code quality, Continuous Integration and deployment. Additional technologies utilised include; Travis, Heroku, RSPEC, Capybara, Jest, enzyme, rubocop, ESlint among others.
+
 ## Education
 
 #### Makers Academy (April 2020 to August 2020)
