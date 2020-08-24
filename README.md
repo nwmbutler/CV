@@ -28,8 +28,9 @@ Check it out here - [Small Steps](https://small-steps2020.herokuapp.com/)
 
 ![alt-text](https://media.giphy.com/media/Phf4AdXoIwKeSPiswl/giphy.gif)
 
-Acebook, a Facebook clone which was built as my penultimate group project at Makers academy. We built this using Ruby on Rails.
-Tested with Rspec and Capybara.
+Acebook, a Facebook clone which was built using Ruby on Rails, PostgreSQL, as my penultimate group project at Makers academy.
+- We focussed on code quality and testing, maintaining 100% coverage throughout. Continuous integration and deployment were central to our process.
+
 Check it out here - [Acebook](https://acebook-brainaics.herokuapp.com/)
 
 ## Education
