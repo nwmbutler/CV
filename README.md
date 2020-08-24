@@ -35,37 +35,32 @@ Check it out here - [Acebook](https://acebook-brainaics.herokuapp.com/)
 
 Both of these projects had a focus on TDD and code quality, Continuous Integration and deployment. Additional technologies utilised include; Travis, Heroku, RSPEC, Capybara, Jest, enzyme, rubocop, ESlint among others.
 
+
+## Professional Experience
+#### Technical Manager, New Wimbledon Theatre (March 2019 - March 2020)
+- As part of the Senior Leadership team, I had responsibility for managing the Technical departments’ impact on EBITDA.
+- Using my interpersonal and communication skills, I interacted with internal and external stakeholders at all levels. 	 	 		
+- I had sole responsibility for the Technical team, Line managing 5 Full-time members of staff and up to 25 Part-time members of staff utilising my exceptional time management, organisational and leadership skills. 
+- Lead on all recruitment and development within the department.
+- Was responsible for all high-level planning, scheduling and budgeting of the department
+
+#### Deputy Technical Manager, The London Palladium (November 2017 - March 2019)
+- Part of the team delivering internationally renowned events such as the Royal Variety Performance and Britain’s Got Talent. I am used to working in high stakes, high-pressure environments, with exacting standards.
+- Responsible for Health and Safety for the Technical department, from formulating risk assessments to managing compliance.
+
 ## Education
 
-#### Makers Academy (April 2020 to August 2020)
-
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-
-#### Canterbury Christ Church University College (09/2003 - 06/2006)
-
+#### Canterbury Christ Church University College
 - Film, Radio and Television 
 - BA Hons 2:1
 
-#### Other qualifications
-
-IOSH - Managing safely
-
-## Experience
-
-#### New Wimbledon Theatre (March 2019 - March 2020)    
-*Technical Manager
+#### The Ravensbourne School
+ - English B, Media studies B, History B
 
 
-#### The London Palladium (November 2017 - March 2019)   
-*Deputy Technical Manager
+## Interests
 
-
-## Hobbies
-
-* I love making music, I play bass guitar, guitar and pretty much anything else I can get my hands on.
+* I love making music, I play the bass guitar, guitar and pretty much anything else I can get my hands on.
 * I can lose hours editing a video in Final cut pro, or fixing a vocal track in any DAW you fancy. 
 * Currently practicing effectively getting beaten up in Muay Thai.
 * Force myself to run, then really enjoy it.
