@@ -8,20 +8,13 @@
 
 </div>
 
-Following a successful career in Technical Theatre, I have taken the leap into software development to take my logical thinking, problem solving, technically orientated skills and redeploy them in pursuit of a new exciting career.
+Following a successful career in Technical Theatre, I have taken the leap into software development to take my logical thinking, problem-solving, technically orientated skills, such as intelligent lighting systems and computer-aided design and redeploy them in pursuit of an exciting new career.
 
-## Skills
-#### Team player 
+## Technical Experience
+#### Makers Academy (April 2020 to August 2020) - Full-stack Software Development Bootcamp.
+A four-month, fulltime, intensive Bootcamp prioritising TDD, BDD, OOP and Agile processes. It has armed me to TDD anything, program fluently, debug anything, model anything, refactor anything and most importantly it focussed on learning to learn.
+Just two examples of the projects I worked on during the course are below;
 
-My greatest achievement in my previous career was building the Technical team from scratch for the newest London Theatre complex, 'The Other Palace'. I was involved in its inception and for 5 hugely enjoyable years. The best part of this was creating a Technical team, with Lighting, Sound and Stage technicians and being instrumental in forming the way that team worked and thrived.
-
-#### Born facilitator
-
-As a Technical Manager my raison d'etre was realising the ideas and inspirations of talented designers. I worked with Directors, Set and Costume designers, Lighting and Sound Designers, to bring their creative imaginings to life in whatever venue I was responsible for. I am excited to bring this strength to bear in realising the wants and needs of clients with bold, exciting software requirements.
-
-#### Detail orientated
-
-Another hugely important part of my professional life to this point has been Health and Safety. The attention to detail required when working with a 20ft flame curtain, or a 10 tonne articulated wall and making sure everyone is not only safe but confident interacting with these potentially lethal effects, fosters an eye for the tiniest details. 
 
 # Projects
 
